@@ -1,18 +1,18 @@
 # Beach Tally
 
-An app that allows anyoone to upload images of beaches and get info about the objects/people in the image.Allows to count the number of people in the image and other objects.Also gives detailed info about the location and cofidence score of prediction
+An app that allows anyone to upload images of beaches and get info about the objects/people in the image. Allows to count the number of people in the image and other objects. Also gives detailed info about the location and cofidence score of prediction
 
 ## Inspiration
 
-- Help for research purpose - part of a Citizen Science project and will be used to help scientists conduct research.
+- Useful for research purposes  - part of a Citizen Science project and will be used to help scientists conduct research.
 
 
 ## Workflow
 ![Workflow](https://i.ibb.co/M65Fzck/9.png)
 ## How we built it
 
-- We used node.js for our backend -used to maintain admin sessions and MongoDB used to store images and show it to the users for analysis.Node.js app is hosted on Heroku
-- Our frontend is built using React.js anb hosted on netlify
+- We used node.js for our backend -used to maintain admin sessions and MongoDB used to store images and show it to the users for analysis. Node.js app is hosted on Heroku
+- Our frontend is built using React.js and hosted on netlify
 
 
 ## Accomplishments we are proud of 
